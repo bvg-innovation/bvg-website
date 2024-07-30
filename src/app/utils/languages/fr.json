@@ -1,0 +1,11 @@
+{
+  "APP_NAME" : "BVG-INNOVATION",
+  "HEADER" : {
+    "LINKS" : {
+      "HOME" : "Acceuil",
+      "SERVICE" : "Nos Services",
+      "BLOG" : "Blog",
+      "ABOUT" : "A propos"
+    }
+  }
+}

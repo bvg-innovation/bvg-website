@@ -1,0 +1,201 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5dd0c1c1-8293-43b7-bb89-f3ff3edec580\" name=\"Changes\" comment=\"fix: \uD83D\uDC1B [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing\">\n      <change beforePath=\"$PROJECT_DIR$/src/app/components/Input/TextInput.tsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/components/Input/TextInput.tsx\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"victory-aime\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"https://github.com/Booteur/BVG-INNOVATION.git\",\n    \"accountId\": \"6d2fee23-0bc9-480e-b89b-b84a5cd83889\"\n  }\n}]]></component>\n  <component name=\"KubernetesApiPersistence\"><![CDATA[{}]]></component>\n  <component name=\"KubernetesApiProvider\"><![CDATA[{\n  \"isMigrated\": true\n}]]></component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2jhYjn8FpezwZwG4yxPjZmLnXLS\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;fix/web-site&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,\n    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/macbookpro/Documents/bvg-web/node_modules/prettier&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,\n    &quot;ts.external.directory.path&quot;: &quot;/Users/macbookpro/Documents/bvg-web/node_modules/typescript/lib&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/app/api/send-email\" />\n      <recent name=\"$PROJECT_DIR$/src/app/utils/languages\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62\" />\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5dd0c1c1-8293-43b7-bb89-f3ff3edec580\" name=\"Changes\" comment=\"\" />\n      <created>1721840912471</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1721840912471</updated>\n      <workItem from=\"1721840914634\" duration=\"2903000\" />\n      <workItem from=\"1721843859692\" duration=\"49979000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"fix: \uD83D\uDC1B [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1721924603782</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1721924603782</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"fix:  [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"fix:  [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cd5e4ae8a4315d92fe546492edfc2046c44c483b)
++++ b/.idea/workspace.xml	(date 1721990994697)
+@@ -5,7 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="5dd0c1c1-8293-43b7-bb89-f3ff3edec580" name="Changes" comment="fix: 🐛 [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing">
+-      <change beforePath="$PROJECT_DIR$/src/app/components/Input/TextInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Input/TextInput.tsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/app/api/send-email/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/send-email/route.ts" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -15,22 +17,22 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "victory-aime"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;victory-aime&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/Booteur/BVG-INNOVATION.git",
+-    "accountId": "6d2fee23-0bc9-480e-b89b-b84a5cd83889"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/Booteur/BVG-INNOVATION.git&quot;,
++    &quot;accountId&quot;: &quot;6d2fee23-0bc9-480e-b89b-b84a5cd83889&quot;
+   }
+-}]]></component>
+-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+-  <component name="KubernetesApiProvider"><![CDATA[{
+-  "isMigrated": true
+-}]]></component>
++}</component>
++  <component name="KubernetesApiPersistence">{}</component>
++  <component name="KubernetesApiProvider">{
++  &quot;isMigrated&quot;: true
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 1
+ }</component>
+@@ -102,6 +104,8 @@
+     <option name="version" value="3" />
+   </component>
+   <component name="VcsManagerConfiguration">
++    <MESSAGE value="fix:  [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing" />
++    <MESSAGE value="feat:  [api] config send email&#10;&#10;add formik and custom validation for contact us form and make toat for&#10;recap message" />
+     <MESSAGE value="fix:  [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing" />
+     <option name="LAST_COMMIT_MESSAGE" value="fix:  [ui-ux] correct all default spacing&#10;&#10;major fix for zomm in  and correct spacing" />
+   </component>
+Index: src/app/api/send-email/route.ts
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import { NextResponse } from \"next/server\";\nimport nodemailer from \"nodemailer\";\n\nexport async function POST(req: Request) {\n  const { userInfo, email, title, message } = await req.json();\n\n  const transporter = nodemailer.createTransport({\n    host: \"mail.privateemail.com\",\n    port: 465,\n    secure: true, // True for 465, false for other ports\n    auth: {\n      user: \"contact@bvg-innovation.tech\", // Your authenticated email\n      pass: \"Contact2024@\", // Your email password\n    },\n  });\n\n  const mailOptions = {\n    from: \"contact@bvg-innovation.tech\", // Must be the authenticated user\n    replyTo: email, // Reply-to address can be different\n    to: \"contact@bvg-innovation.tech\", // Replace with your receiving email address\n    subject: `${title} - ${userInfo}`,\n    text: message,\n  };\n\n  try {\n    await transporter.sendMail(mailOptions);\n    return NextResponse.json({ success: true });\n  } catch (error) {\n    console.error(\"Error sending email:\", error);\n    return NextResponse.json({ success: false });\n  }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/app/api/send-email/route.ts b/src/app/api/send-email/route.ts
+--- a/src/app/api/send-email/route.ts	(revision cd5e4ae8a4315d92fe546492edfc2046c44c483b)
++++ b/src/app/api/send-email/route.ts	(date 1721990994601)
+@@ -2,7 +2,7 @@
+ import nodemailer from "nodemailer";
+ 
+ export async function POST(req: Request) {
+-  const { userInfo, email, title, message } = await req.json();
++  const { userInfo, email, objectMessage, message } = await req.json();
+ 
+   const transporter = nodemailer.createTransport({
+     host: "mail.privateemail.com",
+@@ -18,7 +18,7 @@
+     from: "contact@bvg-innovation.tech", // Must be the authenticated user
+     replyTo: email, // Reply-to address can be different
+     to: "contact@bvg-innovation.tech", // Replace with your receiving email address
+-    subject: `${title} - ${userInfo}`,
++    subject: `${objectMessage} - ${userInfo}`,
+     text: message,
+   };
+ 
+Index: src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import {\n  Flex,\n  Box,\n  HStack,\n  Center,\n  VStack,\n  FormControl,\n  FormLabel,\n  Textarea,\n  Button,\n  Input,\n  Text,\n  SimpleGrid,\n  GridItem,\n  useColorMode,\n  Stack,\n  useToast,\n} from \"@chakra-ui/react\";\nimport React, { ReactNode } from \"react\";\nimport { MailIcon, TelIcon } from \"../../../../../public/assets/svg\";\nimport * as Yup from \"yup\";\nimport { ErrorMessage, Field, Form, Formik } from \"formik\";\nimport { TextInput } from \" _/app/components/Input/TextInput\";\nimport { contactValues } from \" _/app/components/Contact-us/types/contact-values\";\nimport { contactValidationSchema } from \" _/app/components/Contact-us/validation/contact-validation\";\n\nexport const ContactUsMobileDisplay = () => {\n  const toast = useToast();\n  const validationSchema = Yup.object({\n    userInfo: Yup.string().required(\"Required\"),\n    email: Yup.string().email(\"Invalid email address\").required(\"Required\"),\n    title: Yup.string().required(\"Required\"),\n    message: Yup.string().required(\"Required\"),\n  });\n\n  const handleSubmit = async (values: any, actions: any) => {\n    const res = await fetch(\"/api/send-email\", {\n      method: \"POST\",\n      headers: {\n        \"Content-Type\": \"application/json\",\n      },\n      body: JSON.stringify(values),\n    });\n\n    const result = await res.json();\n    if (result.success) {\n      toast({\n        title: \"Message sent successfully.\",\n        status: \"success\",\n        duration: 5000,\n        isClosable: true,\n      });\n      actions.resetForm();\n    } else {\n      toast({\n        title: \"Failed to send message.\",\n        status: \"error\",\n        duration: 5000,\n        isClosable: true,\n      });\n    }\n    actions.setSubmitting(false);\n  };\n\n  return (\n    <Flex flexDirection=\"column\" align={\"center\"} width={\"100%\"} p={5}>\n      <SimpleGrid columns={{ base: 1, sm: 2 }} spacing={4}>\n        <ContactCardMobile\n          icon={<MailIcon width={\"18px\"} height={\"18px\"} fill={\"white\"} />}\n          title=\"Mail Us\"\n          info=\"contact@bvg-innovation.tech\"\n        />\n        <ContactCardMobile\n          icon={<TelIcon width={\"18px\"} height={\"18px\"} fill={\"white\"} />}\n          title=\"Call Us\"\n          info=\"+216 51 719 140\"\n        />\n      </SimpleGrid>\n\n      <Box\n        mt={\"40px\"}\n        bgColor={\"white\"}\n        borderRadius={\"20px\"}\n        boxShadow={\"lg\"}\n        w={\"100%\"}\n        p={5}\n      >\n        <Formik\n          enableReinitialize\n          initialValues={contactValues}\n          validationSchema={contactValidationSchema}\n          onSubmit={handleSubmit}\n        >\n          {({ isSubmitting, setFieldValue }) => (\n            <Form>\n              <VStack spacing={6}>\n                <TextInput\n                  name=\"userInfo\"\n                  label=\"Nom & Prenom\"\n                  placeholder=\"Enter your name\"\n                  required\n                  onChangefunc={(e: { target: { value: any } }) =>\n                    setFieldValue(\"userInfo\", e.target.value)\n                  }\n                />\n                <TextInput\n                  name=\"email\"\n                  label=\"Votre Email\"\n                  type=\"email\"\n                  placeholder=\"Enter your email\"\n                  required\n                  onChangefunc={(e: { target: { value: any } }) =>\n                    setFieldValue(\"email\", e.target.value)\n                  }\n                />\n\n                <TextInput\n                  name=\"objectMessage\"\n                  label=\"Object\"\n                  placeholder=\"Enter the title\"\n                  required\n                  maxLength={100}\n                  onChangefunc={(e: { target: { value: any } }) =>\n                    setFieldValue(\"objectMessage\", e.target.value)\n                  }\n                />\n                <TextInput\n                  name=\"message\"\n                  label=\"Message\"\n                  as=\"textarea\"\n                  placeholder=\"Enter your message\"\n                  height={\"150px\"}\n                  required\n                  maxLength={500}\n                  onChangefunc={(e: { target: { value: string } }) =>\n                    setFieldValue(\"message\", e.target.value)\n                  }\n                />\n                <Center>\n                  <Button\n                    size=\"lg\"\n                    w=\"206px\"\n                    borderRadius={\"12px\"}\n                    color={\"white\"}\n                    type=\"submit\"\n                    isLoading={isSubmitting}\n                  >\n                    Envoyer le message\n                  </Button>\n                </Center>\n              </VStack>\n            </Form>\n          )}\n        </Formik>\n      </Box>\n    </Flex>\n  );\n};\n\nexport const ContactCardMobile = ({\n  icon,\n  title,\n  info,\n}: {\n  icon: ReactNode;\n  title: string;\n  info: string;\n}) => {\n  const { colorMode } = useColorMode();\n  return (\n    <Flex\n      align={\"center\"}\n      justify={\"space-between\"}\n      bgColor={\"white\"}\n      borderRadius={\"12px\"}\n      borderWidth={1}\n      borderColor={\"#E8E8E8\"}\n      width={\"100%\"}\n      boxShadow={\"lg\"}\n      p={2}\n    >\n      <HStack>\n        <Flex\n          rounded={\"lg\"}\n          width={{ base: \"40px\", sm: \"40px\" }}\n          height={{ base: \"40px\", sm: \"40px\" }}\n          bgColor={colorMode === \"light\" ? \"primary.500\" : \"secondary.500\"}\n          align={\"center\"}\n          justify={\"center\"}\n        >\n          {icon}\n        </Flex>\n\n        <Stack align={\"start\"}>\n          <Text fontSize={{ base: \"14px\", sm: \"18px\" }} color={\"black\"}>\n            {title}\n          </Text>\n          <Text fontSize={{ base: \"14px\", sm: \"18px\" }} color={\"gray.500\"}>\n            {info}\n          </Text>\n        </Stack>\n      </HStack>\n    </Flex>\n  );\n};\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx b/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx
+--- a/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx	(revision cd5e4ae8a4315d92fe546492edfc2046c44c483b)
++++ b/src/app/components/Contact-us/components/ContactUsMobileDisplay.tsx	(date 1721991381144)
+@@ -26,40 +26,47 @@
+ 
+ export const ContactUsMobileDisplay = () => {
+   const toast = useToast();
+-  const validationSchema = Yup.object({
+-    userInfo: Yup.string().required("Required"),
+-    email: Yup.string().email("Invalid email address").required("Required"),
+-    title: Yup.string().required("Required"),
+-    message: Yup.string().required("Required"),
+-  });
+ 
+   const handleSubmit = async (values: any, actions: any) => {
+-    const res = await fetch("/api/send-email", {
+-      method: "POST",
+-      headers: {
+-        "Content-Type": "application/json",
+-      },
+-      body: JSON.stringify(values),
+-    });
++    console.log("Submitting form with values:", values);
++    try {
++      const res = await fetch("/api/send-email", {
++        method: "POST",
++        headers: {
++          "Content-Type": "application/json",
++        },
++        body: JSON.stringify(values),
++      });
+ 
+-    const result = await res.json();
+-    if (result.success) {
+-      toast({
+-        title: "Message sent successfully.",
+-        status: "success",
+-        duration: 5000,
+-        isClosable: true,
+-      });
+-      actions.resetForm();
+-    } else {
+-      toast({
+-        title: "Failed to send message.",
++      const result = await res.json();
++      if (result.success) {
++        toast({
++          title: "Message sent successfully.",
++          status: "success",
++          duration: 5000,
++          isClosable: true,
++        });
++        actions.resetForm();
++      } else {
++        toast({
++          title: "Failed to send message.",
++          status: "error",
++          duration: 5000,
++          isClosable: true,
++        });
++      }
++    } catch (error) {
++      console.error("Error submitting form:", error);
++      toast({
++        title: "An error occurred.",
++        description: error.message,
+         status: "error",
+         duration: 5000,
+         isClosable: true,
+       });
+-    }
+-    actions.setSubmitting(false);
++    } finally {
++      actions.setSubmitting(false);
++    }
+   };
+ 
+   return (
+@@ -91,8 +98,10 @@
+           validationSchema={contactValidationSchema}
+           onSubmit={handleSubmit}
+         >
+-          {({ isSubmitting, setFieldValue }) => (
++          {({ isSubmitting, setFieldValue, errors, values }) => (
+             <Form>
++              <Text>{JSON.stringify(values)}</Text>
++              <Text>{JSON.stringify(errors)}</Text>
+               <VStack spacing={6}>
+                 <TextInput
+                   name="userInfo"
+@@ -117,7 +126,7 @@
+                 <TextInput
+                   name="objectMessage"
+                   label="Object"
+-                  placeholder="Enter the title"
++                  placeholder="Enter the Subject"
+                   required
+                   maxLength={100}
+                   onChangefunc={(e: { target: { value: any } }) =>
